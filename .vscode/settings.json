@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.port": 2002,
+  "editor.fontLigatures": true,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode",
+  },
+
+"editor.fontFamily": "Fira Code, JetBrains Mono, Consolas, 'Courier New', monospace",
+"editor.formatOnSave": true,
+}

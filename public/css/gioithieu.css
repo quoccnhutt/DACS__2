@@ -1,0 +1,23 @@
+ol.breadcrumb {
+    background: #fff;
+}
+ .page .title-head {
+    font-size: 1.42857em;
+    font-weight: 700;
+    margin-top: -15px;
+    margin-left: 15px;
+    text-decoration: none;
+    margin-top: 0;
+
+}
+.title-head a {
+    font-size: 16px;
+    color: #333
+}
+.page-content.rte {
+    margin-top: 40px;
+}
+.page-content img {
+    float: left;
+    margin-right: 15px;
+}
